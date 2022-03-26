@@ -11,3 +11,5 @@ KELAS : 06TPLE019
 
 Berikut Hasil Screenshoot dari tugas nya:
 ![alt text](https://github.com/adrz37/uts_191011401763/blob/main/Screen1.png?raw=true)
+![alt text](https://github.com/adrz37/uts_191011401763/blob/main/Screen2.png?raw=true)
+![alt text](https://github.com/adrz37/uts_191011401763/blob/main/Screen3.png?raw=true)
