@@ -1,18 +1,13 @@
 # uts_191011401763
 
-A new Flutter project.
+UTS MOBILE PROGRAMMING 
 
-## Getting Started
+NAMA  : Ade Rizki Awaludin
 
-This project is a starting point for a Flutter application.
+NIM   : 191011401763
 
-A few resources to get you started if this is your first Flutter project:
+KELAS : 06TPLE019
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# uts_191011401763
-# uts_191011401763
+Berikut Hasil Screenshoot dari tugas nya:
+![alt text](https://github.com/adrz37/uts_191011401763/blob/main/Screen1.png?raw=true)
